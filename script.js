@@ -54,7 +54,7 @@ let data = [
     {
         "id": "a1",
         "title": "video 1",
-        "name": "Video 1.mp4"
+        "name": "video 1.mp4"
     },
     {
         "id": "a2",
